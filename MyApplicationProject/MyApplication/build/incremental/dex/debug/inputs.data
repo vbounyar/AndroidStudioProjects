@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375589783000 409 4ed413646f57bdddad9a87275a38ae4b0791f82c /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$menu.class
+1375589783000 361 e63ebf6bf1ea61b8b5ed2732fafe5c27d23e8041 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$attr.class
+1375589783000 424 743d0f06bec3ca288dfdd34dd811bd26b0af4517 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$layout.class
+1375589783000 508 5ae3d33aa120d00dbb49fc2d41fc17acce4fb4a4 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$id.class
+1375589783000 3827 43c8cc3572a0e0207df0db6a4a8fd3d389f1606a /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/MainActivity$DownloadWebpageTask.class
+1375589783000 239 e7b1d95c0c0741e12641200069d469e79ce1d81e /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/MainActivity$1.class
+1375589783000 493 1a41938f7cf7f2aa9453b50dc3306d55f8282ae1 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$string.class
+1375497121000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375589783000 428 55a643a0b155fd26d3984e444062582e16cdb5aa /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$drawable.class
+1375589783000 452 68399bac860404feb1a436da64c7f6fc66e57a4a /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$style.class
+1375589783000 2412 4d6bfb70adbcba298bf6c054a4443e745b35e33f /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/MainActivity.class
+1375589783000 747 a00688970478c0f99b36bfb10d115ae3e374fb0a /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R.class
+1375589783000 359 fdc73ac1e1da2010356e9bbf147ce969332b18da /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/BuildConfig.class
+1375589783000 482 faada894e924919263c56b8f52dfdc73ffaae454 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/classes/debug/com/example/myapplication/R$dimen.class

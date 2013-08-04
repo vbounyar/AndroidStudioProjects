@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="support-v4:13.0">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/WeatherDataExample/libs/support-v4:13.0.+" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

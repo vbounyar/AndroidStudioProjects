@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gson-2.2.2-javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/WeatherDataExample/libs/gson-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

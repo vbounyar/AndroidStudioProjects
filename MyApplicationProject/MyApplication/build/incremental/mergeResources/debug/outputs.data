@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375590377000 1438 8cdf368c97a47e39fc28a05cb0843cf9292ac59b /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/layout/activity_main.xml
+1375589782000 266 66a48424600c89c18eadadac15e52366bb4dc630 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-sw720dp-land/values.xml
+1375589782000 1175 266a246509875fda59990be4cbe993021d9fa4b5 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values/values.xml
+1375589782000 959 5555a652ed340c0f39df1cfdfc4c6156c6ccd69e /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1375589782000 2258 f562c21daf9f5d78fbe51f96eacea45608f45d22 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1375589782000 363 a67035f91bc45238c64901a90ae3006aaadbc482 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/menu/main.xml
+1375589782000 1224 96164562af3a4352bb8b6e7feb4c199881c9fd1f /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1375589782000 335 0c234061aab6c1068efb8ad3c66fe45003bf9546 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-v11/values.xml
+1375589782000 349 a6efc6b502ac2361215ce6de3d04ffb3bcf3b948 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/values-v14/values.xml
+1375589782000 1628 faaebea39ba8a4a004526a5c0c4697a585bd5829 /Users/vbounyar/AndroidStudioProjects/MyApplicationProject/MyApplication/build/res/all/debug/drawable-xhdpi/ic_launcher.png

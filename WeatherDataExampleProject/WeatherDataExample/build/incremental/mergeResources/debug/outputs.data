@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375590990000 345 84ad34ecf2bd5a42559861e35baef7fa1a0bb271 /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/values-v11/values.xml
+1375590990000 2657 7178b4da9f5c4cadfa9343c6f26dbf3bdc9ca50d /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/layout/weather_data_activity_main.xml
+1375567831000 1265 7f9fa077e8d96b3193893dee5b1e6d5d841bf856 /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1375567831000 1760 57d270e8f342d0a849c640571ed540a35dc13db4 /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1375590990000 276 f955b0c2732b3b2193e8ea34ce3fd4b2d5c76918 /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/values-sw720dp-land/values.xml
+1375567831000 3204 4fa386b6c968d33518bb63de11dc2e74dfa0f422 /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1375590990000 1209 ff41bbb969fe3fae8ed0f8edcd75138de129b38b /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/values/values.xml
+1375567831000 967 a5921d1c2a69e68f9fa06de3f72ecffa9d8e2f4f /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1375590990000 359 fbab0180c098039da3ec8138e15a5399b200fee8 /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/values-v14/values.xml
+1375590990000 387 e76ac2a1c583aa0b437d6967bff537f19a089085 /Users/vbounyar/AndroidStudioProjects/WeatherDataExampleProject/WeatherDataExample/build/res/all/debug/menu/weather_datat_main.xml
